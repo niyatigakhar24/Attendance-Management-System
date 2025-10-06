@@ -1,2 +1,3 @@
-# Face-Recognition-based-Attendance-System-using-Opencv-Python
-Face Recognition based Attendance System using Opencv Python and pillow
+# Attendance-Management-System-using-Opencv-Python
+Attendance Management System using Opencv Python and pillow
+
